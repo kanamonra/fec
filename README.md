@@ -58,7 +58,10 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 **Additional Information**
+Landing page
 ![Landing page](https://github.com/kanamonra/fec/assets/122510628/c400c4d1-9d47-4ef8-a3e6-4dbb31bd154d)
+
+Login page
 ![Login page example](https://github.com/kanamonra/fec/assets/122510628/8e63d918-92f5-4a58-a074-8b65ca74d440)
 
 **Available Scripts**
